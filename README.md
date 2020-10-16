@@ -1,3 +1,5 @@
+![](captura.jpg)
+
 # twitter-clone
 
 ## Project setup
