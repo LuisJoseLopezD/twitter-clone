@@ -16,14 +16,14 @@
 				  </div>
 
 				<div class="icons flex justify-between place-items-center space-x-6 ml-16 py-1">
-					<div class="buttons-twittear space-x-6 sm:text-sm md:text-xl">
+					<div class="buttons-twittear space-x-4 sm:space-x-6 sm:text-sm md:text-xl">
 						<i class="cursor-pointer fas fa-image"></i>
 						<i class="cursor-pointer fas fa-smile"></i>
 						<i class="cursor-pointer far fa-chart-bar"></i>
 						<i class="cursor-pointer far fa-calendar"></i>
 					</div>
 					<div>
-						<button class="button-twittear mr-2 text-white text-sm-center px-4 py-2 rounded-full bg-blue font-bold">Twittear</button>
+						<button class="button-twittear mr-2 text-white text-sm-center px-2 py-1 md:px-4 md:py-2 rounded-full bg-blue font-bold">Twittear</button>
 					</div>
 				</div>
 			

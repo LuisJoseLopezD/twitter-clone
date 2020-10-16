@@ -36,10 +36,10 @@ export default {
 	data(){
 		return {
 		users: [ 
-			{icon: 'https://pbs.twimg.com/profile_images/1294731791832698881/2TcJzEeY_200x200.jpg', name: 'Romero José', user: '@romerojoseing', time: '3h', tweet: 'css nativo no morirá jamás jajaja'},
-			{icon: 'https://pbs.twimg.com/profile_images/1273436986506989573/Oq58WVEp_400x400.jpg', name: 'Marco Alejandro', user: '@kada9001', time: '5h', tweet: 'Dogs are great.'},
-			{icon: 'https://pbs.twimg.com/profile_images/1309223687086841856/m4D7wSLy_400x400.jpg', name: 'Luis José López D.', user: '@LuisJoseLopezD', time: '7h', tweet: 'Tailwind CSS + Vue js'},
-			{icon: 'https://pbs.twimg.com/profile_images/1300859119633653760/WqLrPPNR_400x400.jpg', name: 'CATERINA VALENTINO', user: '@CATERINAV', time: '8h', tweet: 'El mejor día posible mi gente. Buenos días!'}
+			{icon: 'https://pbs.twimg.com/profile_images/1294731791832698881/2TcJzEeY_200x200.jpg', name: 'Romero', user: '@romerojoseing', time: '3h', tweet: 'css nativo no morirá jamás jajaja'},
+			{icon: 'https://pbs.twimg.com/profile_images/1273436986506989573/Oq58WVEp_400x400.jpg', name: 'Sando', user: '@kada9001', time: '5h', tweet: 'Dogs are great.'},
+			{icon: 'https://pbs.twimg.com/profile_images/1309223687086841856/m4D7wSLy_400x400.jpg', name: 'Luis José', user: '@LuisJoseLopezD', time: '7h', tweet: 'Tailwind CSS + Vue js'},
+			{icon: 'https://pbs.twimg.com/profile_images/1300859119633653760/WqLrPPNR_400x400.jpg', name: 'CATERINA', user: '@CATERINAV', time: '8h', tweet: 'El mejor día posible mi gente. Buenos días!'}
 
 				],
 			}
