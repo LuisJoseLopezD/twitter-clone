@@ -1,3 +1,5 @@
+<!-- <h3 class="text-twittear pl-1 font-semibold text-base md:text-lg">¿Qué está pasando?</h3> -->
+
 <template>
 	<div id="app">
 		
@@ -12,7 +14,7 @@
 
 				  <div class="flex justify-start space-x-2 place-items-center">
 				    <img class="rounded-full" width="50px" src="https://pbs.twimg.com/profile_images/1309223687086841856/m4D7wSLy_400x400.jpg" alt="" />
-				    <h3 class="text-twittear pl-1 font-semibold text-base md:text-lg">¿Qué está pasando?</h3>
+				    <input class="search w-full outline-none rounded-full p-2 text-white px-2 placeholder-white font-semibold text-base md:text-lg" type="text" name="search" placeholder="¿Qué está pasando?" autcomplete="off" />
 				  </div>
 
 				<div class="icons flex justify-between place-items-center space-x-6 ml-16 py-1">
@@ -53,6 +55,10 @@ export default {
 
 .box .icons .buttons-twittear{
 	color: #1DA1F2;
+}
+
+.box .search {
+	background: #14171a;
 }
 
 </style>
