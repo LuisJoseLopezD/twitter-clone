@@ -14,7 +14,7 @@
 
 
 		<!-- side nav RIGHT -->
-		<div class="min-w-1/3 m-4 hidden lg:block">
+		<div class="w-1/3 m-4 hidden lg:block">
 			<sidenavright />
 		</div>
 
