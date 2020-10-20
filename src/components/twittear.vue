@@ -14,7 +14,7 @@
 
 				  <div class="flex justify-start space-x-2 place-items-center">
 				    <img class="rounded-full" width="50px" src="https://pbs.twimg.com/profile_images/1309223687086841856/m4D7wSLy_400x400.jpg" alt="" />
-				    <input class="search w-full outline-none rounded-full p-2 text-white px-2 placeholder-white font-semibold text-base md:text-lg" type="text" name="search" placeholder="¿Qué está pasando?" autcomplete="off" />
+				    <input class="search w-full outline-none rounded-full p-2 text-white px-2 placeholder-white font-semibold text-base md:text-lg focus:placeholder-opacity-0" type="text" name="search" placeholder="¿Qué está pasando?" autcomplete="off" />
 				  </div>
 
 				<div class="icons flex justify-between place-items-center space-x-6 ml-16 py-1">

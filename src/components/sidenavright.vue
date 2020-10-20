@@ -3,7 +3,13 @@
 		
 		<!-- side nav RIGHT hidden lg:block -->
 
-    <input class="search w-full outline-none bg-gray-600 rounded-full p-2 text-white px-8 placeholder-white" type="text" name="search" placeholder="Buscar en Twitter" autcomplete="off" />
+    <div class="relative">
+
+      <span class="absolute inset-y-0 ml-2 mt-2"><i class="fas fa-search text-special"></i></span>
+
+      <input class="search w-full outline-none bg-gray-600 rounded-full p-2 text-white focus:placeholder-opacity-0 px-8 placeholder-white" type="text" name="search" placeholder="Buscar en Twitter" autcomplete="off" />
+    
+    </div>
 
   <div class="trends-box bg-gray-600 rounded-md mt-2">
     
