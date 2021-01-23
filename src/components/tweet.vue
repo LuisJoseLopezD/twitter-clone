@@ -38,7 +38,7 @@ export default {
 		users: [ 
 			{icon: 'https://pbs.twimg.com/profile_images/1294731791832698881/2TcJzEeY_200x200.jpg', name: 'Romero', user: '@romerojoseing', time: '3h', tweet: 'css nativo no morirá jamás jajaja'},
 			{icon: 'https://pbs.twimg.com/profile_images/1273436986506989573/Oq58WVEp_400x400.jpg', name: 'Sando', user: '@kada9001', time: '5h', tweet: 'Dogs are great.'},
-			{icon: 'https://pbs.twimg.com/profile_images/1309223687086841856/m4D7wSLy_400x400.jpg', name: 'Luis José', user: '@LuisJoseLopezD', time: '7h', tweet: 'Tailwind CSS + Vue js'},
+			{icon: 'https://avatars.githubusercontent.com/u/45377927?s=460&u=028d0c62c9134662a2fb51c04f5cdc6ee025ffc7&v=4', name: 'Luis José', user: '@LuisJoseLopezD', time: '7h', tweet: 'Tailwind CSS + Vue js'},
 			{icon: 'https://pbs.twimg.com/profile_images/1300859119633653760/WqLrPPNR_400x400.jpg', name: 'CATERINA', user: '@CATERINAV', time: '8h', tweet: 'El mejor día posible mi gente. Buenos días!'}
 
 				],
