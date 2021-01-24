@@ -13,7 +13,7 @@
 			<div class="box container w-full p-2">
 
 				  <div class="flex justify-start space-x-2 place-items-center">
-				    <img class="rounded-full" width="50px" src="https://pbs.twimg.com/profile_images/1309223687086841856/m4D7wSLy_400x400.jpg" alt="" />
+				    <img class="rounded-full" width="50px" src="https://avatars.githubusercontent.com/u/45377927?s=460&u=028d0c62c9134662a2fb51c04f5cdc6ee025ffc7&v=4" alt="" />
 				    <input class="search w-full outline-none rounded-full p-2 text-white px-2 placeholder-white font-semibold text-base md:text-lg focus:placeholder-opacity-0" type="text" name="search" placeholder="¿Qué está pasando?" autcomplete="off" />
 				  </div>
 
