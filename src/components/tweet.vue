@@ -36,9 +36,9 @@ export default {
 	data(){
 		return {
 		users: [ 
-			{icon: 'https://pbs.twimg.com/profile_images/1294731791832698881/2TcJzEeY_200x200.jpg', name: 'Romero', user: '@romerojoseing', time: '3h', tweet: 'css nativo no morirá jamás jajaja'},
-			{icon: 'https://pbs.twimg.com/profile_images/1352694204066115585/n13Jp9hr_400x400.jpg', name: 'Sando', user: '@kada9001', time: '5h', tweet: 'Dogs are great.'},
-			{icon: 'https://avatars.githubusercontent.com/u/45377927?s=460&u=028d0c62c9134662a2fb51c04f5cdc6ee025ffc7&v=4', name: 'Luis José', user: '@LuisJoseLopezD', time: '7h', tweet: 'Tailwind CSS + Vue js'}
+			{icon: 'https://media.istockphoto.com/id/1327592480/es/vector/icono-de-marcador-de-posici%C3%B3n-de-foto-de-avatar-predeterminado-foto-de-perfil-gris-hombre-de.jpg', name: 'Romero', user: '@romerojoseing', time: '3h', tweet: 'css nativo no morirá jamás jajaja'},
+			{icon: 'https://media.istockphoto.com/id/1327592466/es/vector/icono-de-marcador-de-posici%C3%B3n-de-foto-de-avatar-predeterminado-foto-de-perfil-gris-hombre-de.jpg', name: 'Sando', user: '@kada9001', time: '5h', tweet: 'Dogs are great.'},
+			{icon: 'https://media.istockphoto.com/id/1327592420/es/vector/icono-de-marcador-de-posici%C3%B3n-de-foto-de-avatar-predeterminado-foto-de-perfil-gris-hombre-de.jpg', name: 'Luis José', user: '@LuisJoseLopezD', time: '7h', tweet: 'Tailwind CSS + Vue js'}
 
 				],
 			}
