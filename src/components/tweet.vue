@@ -36,9 +36,9 @@ export default {
 	data(){
 		return {
 		users: [ 
-			{icon: 'https://media.istockphoto.com/id/1327592480/es/vector/icono-de-marcador-de-posici%C3%B3n-de-foto-de-avatar-predeterminado-foto-de-perfil-gris-hombre-de.jpg', name: 'Romero', user: '@romerojoseing', time: '3h', tweet: 'css nativo no morirá jamás jajaja'},
-			{icon: 'https://media.istockphoto.com/id/1327592466/es/vector/icono-de-marcador-de-posici%C3%B3n-de-foto-de-avatar-predeterminado-foto-de-perfil-gris-hombre-de.jpg', name: 'Sando', user: '@kada9001', time: '5h', tweet: 'Dogs are great.'},
-			{icon: 'https://media.istockphoto.com/id/1327592420/es/vector/icono-de-marcador-de-posici%C3%B3n-de-foto-de-avatar-predeterminado-foto-de-perfil-gris-hombre-de.jpg', name: 'Luis José', user: '@LuisJoseLopezD', time: '7h', tweet: 'Tailwind CSS + Vue js'}
+			{icon: 'https://media-exp1.licdn.com/dms/image/C4E03AQFY8AZUxs1zyg/profile-displayphoto-shrink_200_200/0/1651957435009?e=1675296000&v=beta&t=qenl_s7S4O6R_R3TJ9WCogfEb81SVbtWPJzA4HUMRxw', name: 'Romero', user: '@romerojoseing', time: '3h', tweet: 'css nativo no morirá jamás jajaja'},
+			{icon: 'https://media-exp1.licdn.com/dms/image/D4E03AQF4byDgJ5OUyQ/profile-displayphoto-shrink_200_200/0/1666996485914?e=1675296000&v=beta&t=joK6kajsRTYRM8z7JwjH0QzJlquj9oVV1Q0f4sNwovA', name: 'Sando', user: '@kada9001', time: '5h', tweet: 'Dogs are great.'},
+			{icon: 'https://media-exp1.licdn.com/dms/image/D4E03AQGj8ScqatZnpg/profile-displayphoto-shrink_800_800/0/1668912775154?e=1675296000&v=beta&t=TzfFBavZz6Vnfj101Ci2iS_mNChufRrUvvJ30KJxWFM', name: 'Luis José', user: '@LuisJoseLopezD', time: '7h', tweet: 'Tailwind CSS + Vue js'}
 
 				],
 			}
